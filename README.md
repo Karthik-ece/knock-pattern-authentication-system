@@ -1,9 +1,8 @@
 # Knock-pattern-authentication-system
-Microcontroller-based knock pattern authentication system designed for secure and discreet access control
+A vibration-based authentication system designed for secure and discreet access control using embedded signal processing
 
 # Description
 This project implements a microcontroller-based authentication system that uses knock patterns as a secure access mechanism. 
-
 The system detects vibration signals using a piezoelectric sensor, processes them through an amplifier, and compares the input pattern with a stored pattern to grant or deny access.
 
 # Features
